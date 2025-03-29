@@ -1,0 +1,2 @@
+This would be a placeholder for the Netflix logo image.
+In a real implementation, this would be a PNG file with the Netflix logo.
